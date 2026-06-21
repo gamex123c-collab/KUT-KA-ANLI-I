@@ -1,0 +1,6 @@
+{
+  "name": "Kut Kağanlığı",
+  "description": "Kut Kağanlığı, yüksek kaliteli sesli, görüntülü ve yapay zeka destekli modern bir toplantı platformudur.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
